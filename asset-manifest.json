@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7a49049.css",
-    "main.js": "/static/js/main.f1f3435d.js",
-    "static/js/787.f65782ac.chunk.js": "/static/js/787.f65782ac.chunk.js",
-    "static/media/bg.png": "/static/media/bg.7a6a9fe5747fb46892a3.png",
-    "index.html": "/index.html",
-    "main.d7a49049.css.map": "/static/css/main.d7a49049.css.map",
-    "main.f1f3435d.js.map": "/static/js/main.f1f3435d.js.map",
-    "787.f65782ac.chunk.js.map": "/static/js/787.f65782ac.chunk.js.map"
+    "main.css": "/proview-id-card-detection/static/css/main.d7a49049.css",
+    "main.js": "/proview-id-card-detection/static/js/main.fa72e7fe.js",
+    "static/js/787.f65782ac.chunk.js": "/proview-id-card-detection/static/js/787.f65782ac.chunk.js",
+    "static/media/bg.png": "/proview-id-card-detection/static/media/bg.7a6a9fe5747fb46892a3.png",
+    "index.html": "/proview-id-card-detection/index.html",
+    "main.d7a49049.css.map": "/proview-id-card-detection/static/css/main.d7a49049.css.map",
+    "main.fa72e7fe.js.map": "/proview-id-card-detection/static/js/main.fa72e7fe.js.map",
+    "787.f65782ac.chunk.js.map": "/proview-id-card-detection/static/js/787.f65782ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7a49049.css",
-    "static/js/main.f1f3435d.js"
+    "static/js/main.fa72e7fe.js"
   ]
 }
